@@ -1,0 +1,40 @@
+﻿  lapi.c
+  lauxlib.c
+  lbaselib.c
+  lbitlib.c
+  lcode.c
+  lcorolib.c
+  lctype.c
+  ldblib.c
+  ldebug.c
+  ldo.c
+  ldump.c
+  lfunc.c
+  lgc.c
+  linit.c
+  liolib.c
+  llex.c
+  lmathlib.c
+  lmem.c
+  loadlib.c
+  lobject.c
+  Compiling...
+  lopcodes.c
+  loslib.c
+  lparser.c
+  lstate.c
+  lstring.c
+  lstrlib.c
+  ltable.c
+  ltablib.c
+  ltm.c
+  lua.c
+  lundump.c
+  lutf8lib.c
+  lvm.c
+  lzio.c
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 895 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  lua_5.3.6_vs2019.vcxproj -> C:\Users\jdp_\source\repos\lua_5.3.6_vs2019\x64\Release\lua_5.3.6_vs2019.exe
